@@ -1,4 +1,6 @@
 # BPUBC-is-a-python-universal-bookmark-converter
-BUBC, but in python form. 
+This is a python prototype of BUBC
+https://github.com/shinsean/BUBC-Universal-Bookmark-Converter
 
 You will need python to run it
+This program converts CMbrowser bookmark files into netscape ".html" bookmark files.
